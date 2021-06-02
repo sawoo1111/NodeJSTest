@@ -1,0 +1,1 @@
+{"private":true,"devDependencies":{"sonar-scanner":"^3.1.0"},"name":"application-name","scripts":{"start":"node app","sonar":"sonar-scanner"},"version":"0.0.1","dependencies":{"jade":"*","express":"4.17.1","stylus":"*","mongodb":">= 0.9.6-7"}}
